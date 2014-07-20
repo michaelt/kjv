@@ -3,9 +3,7 @@ kjv
 
 Usage: 
 
-    $ time ./number_lines_url https://raw.githubusercontent.com/michaelt/kjv/master/kjv.txt | less
-
-
+    $ ./number_lines_url https://raw.githubusercontent.com/michaelt/kjv/master/kjv.txt | less
     1 
     2 The First Book of Moses: Called Genesis
     3 
